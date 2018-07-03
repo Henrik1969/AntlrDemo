@@ -1,6 +1,9 @@
 # ANTLR 4 demo
-
 A demo project using ANTLR 4 to parse Json.
+
+# Important note
+This is not my project, but only a clone that I use to experiment with the use of ANTLR.
+You should really go to the original project.
 
 # Usage
 
